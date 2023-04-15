@@ -14,7 +14,7 @@ API для [проекта социальной сети Yatube].
 ## Системные требования
 
 - Python 3.9+
-- Linux, Windows, MacOS, BSD
+- Linux, Windows, MacOS
 
 ## Технологии
 

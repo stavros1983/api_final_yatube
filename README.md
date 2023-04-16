@@ -2,7 +2,7 @@
 
 ## Описание проекта
 
-API для [проекта социальной сети Yatube].
+API для проекта социальной сети Yatube.
 
 В проекте реализованы следующие функции:
 
@@ -14,7 +14,7 @@ API для [проекта социальной сети Yatube].
 ## Системные требования
 
 - Python 3.9+
-- Linux, Windows, MacOS, BSD
+- Linux, Windows, MacOS
 
 ## Технологии
 
@@ -27,7 +27,7 @@ API для [проекта социальной сети Yatube].
 
 1. Клонировать репозиторий и перейти в него:
 ```
-
+git@github.com:stavros1983/api_final_yatube.git
 ```
 
 2. Создать и активировать виртуальное окружение:
@@ -37,7 +37,7 @@ python -m venv venv
 source venv/Scripts/activate
 ```
 
-3. Обновить pip и установить зависимости из файла requirements.txt:
+3. Обновить pip и установить зависимости requirements.txt:
 ```
 python -m pip install --upgrade pip
 
